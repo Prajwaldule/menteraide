@@ -1,0 +1,31 @@
+ 
+h2{
+   color:rgb(49, 107, 182);
+}
+h3{
+   color:black;
+}
+.header{
+   background-color:rgb(49, 107, 182);
+   text-align: center;
+   color: white;
+}
+.footer{
+   text-align: center;
+}
+.ftitle{
+   color: rgb(49, 107, 182);
+}
+.projects{
+   border:1px  solid;
+   padding: 20px;
+}
+.body{
+   margin-left: 5px;
+}
+textarea{
+   background-color: rgb(209, 208, 208);
+   color: black;
+   width: 1000px;   
+   font-size: larger;
+}
