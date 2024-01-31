@@ -1,0 +1,165 @@
+*{
+    box-sizing: border-box;
+    font-family: Open-sans-serif;
+}
+
+h2{
+    font-size: 36px;
+}
+
+.herotitle{
+    color: #fbfafa;
+    font-size: 48px;
+}
+.herodesc{
+    color: #ffffff;
+    font-size: 36px;
+}
+.herobutton{
+    border-radius: 0.2cm;
+    color: #ffffff;
+    width: 8cm;
+    padding: 0.5cm;
+    background-color: #1d80c7;
+}
+hr{
+    border: none;
+    height: 4px;
+    width: 300px;
+    margin: auto;
+    background-color: rgb(59, 141, 235);
+    margin-bottom:2cm ;
+      
+}
+.navs{
+    background-image: url(main.jpg);
+    background-size: cover;
+    height: 100vh;   
+}
+
+.logo{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.navlist{
+    list-style: none;
+    display: flex;
+    padding-left: 5cm;
+}
+.navigation{
+    padding-top: 0.5cm;
+    color: #fafafa;
+    display: flex;
+    align-items: center;
+    padding-left: 1.5cm;
+    justify-content: space-between;
+}
+.nav{
+    padding-right: 2cm;
+}
+
+.hero{
+    margin-top: 8cm;
+    text-align: center;
+    animation: slide-up 1s ease forwards;  
+    opacity: 0;  
+}
+@keyframes slide-up {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+.sub{
+    text-align: center;
+}
+
+.images{
+    margin-left: 1cm;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.small{
+    padding: 0.5cm;
+    width: 400px;
+    height: 350px;
+}
+.big{
+    padding: 0.5cm;
+    width: 950px;
+    height: 350px;
+}
+.sub2{
+text-align: center;
+}
+.sublogo{
+    color: #30b6d7;
+} 
+.list{
+    background-color: #cec8c8;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 4cm;
+  
+}
+.container{
+    text-align: center;
+     height: 300px;
+     width: 600px;
+}
+.end h2{
+    color: #4f4b4b;
+}
+.end{
+    padding-top: 3cm;
+    text-align: center;
+}
+.review{
+    margin-left: 10cm;
+    margin-right: 10cm;
+    font-size: 24px;
+}
+.by{
+    padding-bottom: 2cm;
+}
+.f1{
+    background-color: #cec8c8;
+    text-align: center;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+    
+}
+.fw{
+    color: #ffffff;
+    background-color: #155160;
+    display: flex;
+    justify-content: space-around;
+}
+ .fw i{
+    
+    text-decoration: none;
+    color: #fffefe;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 0.2cm;
+ }
+
+ .mail{
+    height: 1.2cm;
+    width: 10cm;
+    margin-right: 2cm;
+ }
+ .subscribe{
+    border-radius: 0.2cm;
+    color: #ffffff;
+    width: 8cm;
+    padding: 0.5cm;
+    background-color: #1d80c7;  
+ }
