@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(9, 9, 71);
+}
+.welcome-container{
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+}
+.welcome-img{
+    width: 65vw;
+    height: 35vw;
+}
+.start{
+    margin-top: 2vw;
+    padding: 2vw 4vw;
+    background-color: blue;
+    border: 2px solid white;
+}
+.start a {
+    text-decoration: none;
+    color: white;
+    font-size: clamp(1.8rem,1vw,5rem);
+}
