@@ -1,4 +1,4 @@
-import TodoApp from "../todoApp"
+import TodoApp from "../organisms/todo/todoApp"
  
 
 function todo() {

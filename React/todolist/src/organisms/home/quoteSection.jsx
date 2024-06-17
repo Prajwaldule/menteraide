@@ -1,9 +1,8 @@
-import Quote from "../atoms/quote"
+import Quote from "../../atoms/home/quote"
 import styled from "styled-components"
 
 const Container = styled.div`
 min-height: 50vh;
-
 ` 
  
 

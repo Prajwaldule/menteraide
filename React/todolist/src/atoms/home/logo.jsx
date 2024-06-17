@@ -1,4 +1,4 @@
-import Img from '../assets/react.svg'
+import Img from '../../assets/react.svg'
 import styled from "styled-components"
 
 const Container = styled.div`

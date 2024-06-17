@@ -1,4 +1,4 @@
-import NoteApp from "../../notes/noteApp"
+import NoteApp from "../organisms/notes/noteApp"
 
  
 

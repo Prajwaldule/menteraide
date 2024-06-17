@@ -1,5 +1,5 @@
-import Links from "../atoms/links"
-import Logo from "../atoms/logo"
+import Links from "../../atoms/home/links"
+import Logo from "../../atoms/home/logo"
 import styled from "styled-components"
 
 const Container = styled.div`

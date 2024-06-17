@@ -1,4 +1,4 @@
-import ContactImg from "../assets/contact-me.png"
+import ContactImg from "../../assets/contact-me.png"
 import styled from "styled-components"
 
 const Container = styled.div`

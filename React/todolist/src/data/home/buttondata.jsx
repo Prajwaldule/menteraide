@@ -1,7 +1,7 @@
-import Mail from '../assets/envelope-solid.svg';
-import Github from '../assets/github.svg';
-import Instagram from '../assets/instagram.png';
-import Linkedin from '../assets/linkedin.svg';
+import Mail from '../../assets/envelope-solid.svg';
+import Github from '../../assets/github.svg';
+import Instagram from '../../assets/instagram.png';
+import Linkedin from '../../assets/linkedin.svg';
 
 
 const buttonData = [

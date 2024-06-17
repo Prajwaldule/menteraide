@@ -1,15 +1,10 @@
-import Exptracker from "./pages/exptracker"
-
-
-
-
-//import Home from "./pages/home"
+import Home from "./pages/home"
 
  
  function App() {
    return (
      <div>
-      <Exptracker/>
+      <Home/>
      </div>
    )
  }

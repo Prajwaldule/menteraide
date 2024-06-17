@@ -1,6 +1,6 @@
-import ToolsHead from "../atoms/toolsHead"
-import Tooldata from "../data/toolsdata"
-import Toolcards from "../molecules/toolcards"
+import ToolsHead from "../../atoms/home/toolsHead"
+import Tooldata from "../../data/home/toolsdata"
+import Toolcards from "../../molecules/home/toolcards"
 import styled from "styled-components"
 
 const Container = styled.div`

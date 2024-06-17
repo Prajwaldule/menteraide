@@ -1,8 +1,8 @@
-import ContactHead from "../atoms/contactHead"
-import Contacttext from "../atoms/contacttext"
-import Img from "../atoms/img2"
-import ButtonData from "../data/buttondata"
-import Conatctlink from "../molecules/conatctlink"
+import ContactHead from "../../atoms/home/contactHead"
+import Contacttext from "../../atoms/home/contacttext"
+import Img from "../../atoms/home/img2"
+import ButtonData from "../../data/home/buttondata"
+import Conatctlink from "../../molecules/home/conatctlink"
 import styled from "styled-components"
 
 const Container = styled.div`

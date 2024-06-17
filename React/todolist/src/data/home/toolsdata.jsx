@@ -1,6 +1,6 @@
-import Notes from "../assets/notepad_2475221.png"
-import Todo from "../assets/checklist_14092844.png"
-import ExpCalculator from "../assets/calculations_8038952.png"
+import Notes from "../../assets/notepad_2475221.png"
+import Todo from "../../assets/checklist_14092844.png"
+import ExpCalculator from "../../assets/calculations_8038952.png"
 
 
 const tooldata = [

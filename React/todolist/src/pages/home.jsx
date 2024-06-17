@@ -1,9 +1,9 @@
-import Header from '../organisms/header'
-import About from '../organisms/aboutSection'
-import ToolsSection from '../organisms/toolsSection'
-import ContactSection from '../organisms/contactSection'
-import QuoteSection from '../organisms/quoteSection'
-import Footer from '../organisms/footer'
+import Header from '../organisms/home/header'
+import About from '../organisms/home/aboutSection'
+import ToolsSection from '../organisms/home/toolsSection'
+import ContactSection from '../organisms/home/contactSection'
+import QuoteSection from '../organisms/home/quoteSection'
+import Footer from '../organisms/home/footer'
 
 function home() {
   return (
